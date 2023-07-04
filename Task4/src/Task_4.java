@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Task_4 {
     public static void main(String[] args) {
-        // 4. Даны действительные числа а 1 ,а 2 ,..., а n . Поменять местами наибольший и наименьший элементы.
+        //  4. Даны действительные числа а 1 ,а 2 ,..., а n . Поменять местами наибольший и наименьший элементы.
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите размер массива:");
         int n = scanner.nextInt();
